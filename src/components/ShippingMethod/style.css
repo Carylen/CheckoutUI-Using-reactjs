@@ -1,0 +1,162 @@
+.shipping-method {
+  background-color: #ffffff;
+  border-radius: 4px;
+  box-shadow: var(--shadow-1);
+  height: 260px;
+  position: relative;
+  width: 570px;
+}
+
+.shipping-method .text-wrapper-3 {
+  color: #000000;
+  font-family: var(--bold-16px-font-family);
+  font-size: var(--bold-16px-font-size);
+  font-style: var(--bold-16px-font-style);
+  font-weight: var(--bold-16px-font-weight);
+  left: 20px;
+  letter-spacing: var(--bold-16px-letter-spacing);
+  line-height: var(--bold-16px-line-height);
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.shipping-method .rectangle {
+  height: 74px;
+  left: 20px;
+  position: absolute;
+  top: 67px;
+  width: 528px;
+}
+
+.shipping-method .overlap-group {
+  border-radius: 4px;
+  height: 74px;
+  position: relative;
+}
+
+.shipping-method .rectangle-2 {
+  background-color: var(--blueblue-2);
+  border-radius: 4px;
+  height: 74px;
+  left: 0;
+  opacity: 0.1;
+  position: absolute;
+  top: 0;
+  width: 528px;
+}
+
+.shipping-method .rectangle-3 {
+  border: 1px solid;
+  border-color: var(--blueblue-2);
+  border-radius: 4px;
+  height: 74px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 528px;
+}
+
+.shipping-method .USPS-class-with {
+  color: var(--darkdark-3);
+  font-family: var(--regular-14px-font-family);
+  font-size: var(--regular-14px-font-size);
+  font-style: var(--regular-14px-font-style);
+  font-weight: var(--regular-14px-font-weight);
+  height: 40px;
+  left: 107px;
+  letter-spacing: var(--regular-14px-letter-spacing);
+  line-height: var(--regular-14px-line-height);
+  position: absolute;
+  top: 14px;
+  width: 330px;
+}
+
+.shipping-method .radio-instance {
+  left: 19px !important;
+  position: absolute !important;
+  top: 15px !important;
+}
+
+.shipping-method .image {
+  height: 50px;
+  left: 462px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 50px;
+}
+
+.shipping-method .rectangle-4 {
+  border: 1px solid;
+  border-color: var(--darkdark-1);
+  border-radius: 4px;
+  height: 74px;
+  left: 20px;
+  position: absolute;
+  top: 156px;
+  width: 528px;
+}
+
+.shipping-method .USPS-PRIORITY-with {
+  color: var(--darkdark-3);
+  font-family: var(--regular-14px-font-family);
+  font-size: var(--regular-14px-font-size);
+  font-style: var(--regular-14px-font-style);
+  font-weight: var(--regular-14px-font-weight);
+  height: 40px;
+  left: 106px;
+  letter-spacing: var(--regular-14px-letter-spacing);
+  line-height: var(--regular-14px-line-height);
+  position: absolute;
+  top: 13px;
+  width: 330px;
+}
+
+.shipping-method .design-component-instance-node {
+  left: 18px !important;
+  position: absolute !important;
+  top: 14px !important;
+}
+
+.shipping-method .logo {
+  background-image: url(../../../static/img/image-36.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 50px;
+  left: 460px;
+  position: absolute;
+  top: 6px;
+  width: 50px;
+}
+
+.shipping-method .overlap-group-2 {
+  height: 18px;
+  position: relative;
+  top: 29px;
+  width: 32px;
+}
+
+.shipping-method .rectangle-5 {
+  background-color: var(--blueblue-2);
+  border-radius: 2px;
+  height: 13px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 32px;
+}
+
+.shipping-method .text-wrapper-4 {
+  color: #ffffff;
+  font-family: var(--regular-10px-font-family);
+  font-size: var(--regular-10px-font-size);
+  font-style: var(--regular-10px-font-style);
+  font-weight: var(--regular-10px-font-weight);
+  left: 2px;
+  letter-spacing: var(--regular-10px-letter-spacing);
+  line-height: var(--regular-10px-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}

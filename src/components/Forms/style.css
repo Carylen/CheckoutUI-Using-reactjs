@@ -1,0 +1,504 @@
+.forms .overlap-group-3 {
+  position: relative;
+}
+
+.forms .box {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-radius: 4px;
+  left: 0;
+  position: absolute;
+  top: 14px;
+  width: 255px;
+}
+
+.forms .label {
+  align-items: center;
+  background-color: #ffffff;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 6px;
+  padding: 0px 8px;
+  position: absolute;
+  top: 0;
+}
+
+.forms .first-name {
+  color: var(--darkdark-2);
+  font-family: var(--regular-12px-font-family);
+  font-size: var(--regular-12px-font-size);
+  font-style: var(--regular-12px-font-style);
+  font-weight: var(--regular-12px-font-weight);
+  letter-spacing: var(--regular-12px-letter-spacing);
+  line-height: var(--regular-12px-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.forms .group {
+  background-color: var(--blueblue-2);
+  border-radius: 7px;
+  height: 14px;
+  position: absolute;
+  width: 14px;
+}
+
+.forms .vector {
+  height: 6px;
+  left: 4px;
+  position: absolute;
+  top: 5px;
+  width: 7px;
+}
+
+.forms .text {
+  left: 14px;
+  position: absolute;
+}
+
+.forms .frame {
+  align-items: center;
+  background-color: #ffffff;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 6px;
+  padding: 0px 8px;
+  position: absolute;
+  top: 0;
+}
+
+.forms .email-address {
+  color: var(--darkdark-2);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.forms .vector-2 {
+  height: 6px;
+  left: 232px;
+  position: absolute;
+  width: 10px;
+}
+
+.forms .text-wrapper-5 {
+  color: var(--darkdark-3);
+  left: 14px;
+  position: absolute;
+}
+
+.forms .div-wrapper {
+  align-items: center;
+  background-color: #ffffff;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 6px;
+  padding: 0px 8px;
+  position: absolute;
+  top: 0;
+}
+
+.forms .text-wrapper-6 {
+  color: var(--darkdark-2);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.forms .email {
+  align-self: stretch;
+  color: var(--darkdark-3);
+  font-family: var(--regular-12px-font-family);
+  font-size: var(--regular-12px-font-size);
+  font-style: var(--regular-12px-font-style);
+  font-weight: var(--regular-12px-font-weight);
+  letter-spacing: var(--regular-12px-letter-spacing);
+  line-height: var(--regular-12px-line-height);
+  margin-top: -1px;
+  position: relative;
+}
+
+.forms .frame-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--darkdark-1);
+  border-radius: 8px;
+  display: flex;
+  height: 44px;
+  padding: 0px 15px;
+  position: relative;
+  width: 100%;
+}
+
+.forms .text-wrapper-7 {
+  color: var(--darkdark-2);
+  flex: 1;
+  font-family: var(--regular-14px-font-family);
+  font-size: var(--regular-14px-font-size);
+  font-style: var(--regular-14px-font-style);
+  font-weight: var(--regular-14px-font-weight);
+  height: 45px;
+  letter-spacing: var(--regular-14px-letter-spacing);
+  line-height: var(--regular-14px-line-height);
+  margin-top: -1.5px;
+  position: relative;
+}
+
+.forms .vector-3 {
+  height: 5.06px;
+  margin-right: -0.35px;
+  position: relative;
+  width: 8.71px;
+}
+
+.forms.comment {
+  width: 255px;
+}
+
+.forms.dropdown {
+  width: 255px;
+}
+
+.forms.two {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+}
+
+.forms.one {
+  width: 255px;
+}
+
+.forms.comment.size-1-small {
+  height: 77px;
+}
+
+.forms.textbox.size-1-small {
+  height: 52px;
+}
+
+.forms.textbox.two {
+  display: inline-flex;
+}
+
+.forms.size-1-small.dropdown {
+  height: 52px;
+}
+
+.forms.two.dropdown {
+  display: flex;
+}
+
+.forms.comment.size-1-large {
+  height: 79px;
+}
+
+.forms.textbox.one.size-1-large {
+  height: 58px;
+}
+
+.forms.one.size-1-large.dropdown {
+  height: 58px;
+}
+
+.forms .default {
+  border-color: var(--darkdark-1);
+}
+
+.forms .approved {
+  border-color: var(--blueblue-2);
+}
+
+.forms .filled {
+  border-color: var(--darkdark-1);
+}
+
+.forms .empty {
+  border-color: var(--darkdark-1);
+}
+
+.forms .type-0-textbox.size-3-small {
+  height: 38px;
+}
+
+.forms .size-3-large.type-0-dropdown {
+  height: 44px;
+}
+
+.forms .type-0-comment.size-3-small {
+  height: 63px;
+}
+
+.forms .type-0-textbox.size-3-large {
+  height: 44px;
+}
+
+.forms .size-3-small.type-0-dropdown {
+  height: 38px;
+}
+
+.forms .type-0-comment.size-3-large {
+  height: 65px;
+}
+
+.forms .size-5-large {
+  top: 25px;
+}
+
+.forms .size-5-small {
+  top: 22px;
+}
+
+.forms .state-default {
+  color: var(--darkdark-2);
+}
+
+.forms .state-approved {
+  color: var(--darkdark-3);
+}
+
+.forms .state-filled {
+  color: var(--darkdark-3);
+}
+
+.forms .state-empty {
+  color: var(--darkdark-3);
+}
+
+.forms .state-approved.size-5-large {
+  font-family: var(--semibold-15px-font-family);
+  font-size: var(--semibold-15px-font-size);
+  font-style: var(--semibold-15px-font-style);
+  font-weight: var(--semibold-15px-font-weight);
+  letter-spacing: var(--semibold-15px-letter-spacing);
+  line-height: var(--semibold-15px-line-height);
+}
+
+.forms .size-5-small.state-filled {
+  font-family: var(--semibold-13px-font-family);
+  font-size: var(--semibold-13px-font-size);
+  font-style: var(--semibold-13px-font-style);
+  font-weight: var(--semibold-13px-font-weight);
+  letter-spacing: var(--semibold-13px-letter-spacing);
+  line-height: var(--semibold-13px-line-height);
+}
+
+.forms .type-1-comment.size-5-small {
+  width: 229px;
+}
+
+.forms .state-default.size-5-large {
+  font-family: var(--regular-15px-font-family);
+  font-size: var(--regular-15px-font-size);
+  font-style: var(--regular-15px-font-style);
+  font-weight: var(--regular-15px-font-weight);
+  letter-spacing: var(--regular-15px-letter-spacing);
+  line-height: var(--regular-15px-line-height);
+}
+
+.forms .type-1-comment.state-filled {
+  width: 229px;
+}
+
+.forms .state-approved.size-5-small {
+  font-family: var(--semibold-13px-font-family);
+  font-size: var(--semibold-13px-font-size);
+  font-style: var(--semibold-13px-font-style);
+  font-weight: var(--semibold-13px-font-weight);
+  letter-spacing: var(--semibold-13px-letter-spacing);
+  line-height: var(--semibold-13px-line-height);
+}
+
+.forms .state-filled.size-5-large {
+  font-family: var(--semibold-15px-font-family);
+  font-size: var(--semibold-15px-font-size);
+  font-style: var(--semibold-15px-font-style);
+  font-weight: var(--semibold-15px-font-weight);
+  letter-spacing: var(--semibold-15px-letter-spacing);
+  line-height: var(--semibold-15px-line-height);
+  width: 229px;
+}
+
+.forms .type-1-comment.state-approved.size-5-large {
+  width: 230px;
+}
+
+.forms .type-1-textbox.size-5-large.state-approved {
+  width: 200px;
+}
+
+.forms .type-1-textbox.size-5-small.state-filled {
+  width: 231px;
+}
+
+.forms .type-1-comment.size-5-small.state-empty {
+  font-family: "Open Sans", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.forms .type-1-textbox.state-default.size-5-large {
+  width: 229px;
+}
+
+.forms .state-approved.size-5-small.type-1-dropdown {
+  width: 207px;
+}
+
+.forms .type-1-textbox.size-5-small.state-approved {
+  width: 207px;
+}
+
+.forms .type-1-comment.state-default.size-5-large {
+  width: 230px;
+}
+
+.forms .type-1-textbox.state-default.size-5-small {
+  font-family: var(--regular-13px-font-family);
+  font-size: var(--regular-13px-font-size);
+  font-style: var(--regular-13px-font-style);
+  font-weight: var(--regular-13px-font-weight);
+  letter-spacing: var(--regular-13px-letter-spacing);
+  line-height: var(--regular-13px-line-height);
+  width: 231px;
+}
+
+.forms .type-1-comment.size-5-large.state-empty {
+  width: 230px;
+}
+
+.forms .type-1-comment.state-default.size-5-small {
+  font-family: "Open Sans", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.forms .size-5-small.state-filled.type-1-dropdown {
+  width: 231px;
+}
+
+.forms .state-approved.size-5-large.type-1-dropdown {
+  width: 200px;
+}
+
+.forms.comment.size-1-small .overlap-group-3 {
+  height: 77px;
+}
+
+.forms.textbox.size-1-small .overlap-group-3 {
+  height: 52px;
+}
+
+.forms.size-1-large.dropdown .overlap-group-3 {
+  height: 58px;
+}
+
+.forms.textbox.size-1-large .overlap-group-3 {
+  height: 58px;
+}
+
+.forms.size-1-small.dropdown .overlap-group-3 {
+  height: 52px;
+}
+
+.forms.comment.size-1-large .overlap-group-3 {
+  height: 79px;
+}
+
+.forms.size-1-large .group {
+  left: 228px;
+  top: 29px;
+}
+
+.forms.size-1-small .group {
+  left: 231px;
+  top: 26px;
+}
+
+.forms.size-1-small .frame {
+  height: 20px;
+}
+
+.forms.size-1-large .email-address {
+  font-family: var(--regular-12px-font-family);
+  font-size: var(--regular-12px-font-size);
+  font-style: var(--regular-12px-font-style);
+  font-weight: var(--regular-12px-font-weight);
+  letter-spacing: var(--regular-12px-letter-spacing);
+  line-height: var(--regular-12px-line-height);
+  margin-top: -1px;
+}
+
+.forms.size-1-small .email-address {
+  font-family: var(--regular-10px-font-family);
+  font-size: var(--regular-10px-font-size);
+  font-style: var(--regular-10px-font-style);
+  font-weight: var(--regular-10px-font-weight);
+  letter-spacing: var(--regular-10px-letter-spacing);
+  line-height: var(--regular-10px-line-height);
+}
+
+.forms.size-1-large .vector-2 {
+  top: 34px;
+}
+
+.forms.size-1-small .vector-2 {
+  top: 31px;
+}
+
+.forms.size-1-large .text-wrapper-5 {
+  font-family: var(--semibold-15px-font-family);
+  font-size: var(--semibold-15px-font-size);
+  font-style: var(--semibold-15px-font-style);
+  font-weight: var(--semibold-15px-font-weight);
+  letter-spacing: var(--semibold-15px-letter-spacing);
+  line-height: var(--semibold-15px-line-height);
+  top: 25px;
+  width: 207px;
+}
+
+.forms.size-1-small .text-wrapper-5 {
+  font-family: var(--semibold-13px-font-family);
+  font-size: var(--semibold-13px-font-size);
+  font-style: var(--semibold-13px-font-style);
+  font-weight: var(--semibold-13px-font-weight);
+  letter-spacing: var(--semibold-13px-letter-spacing);
+  line-height: var(--semibold-13px-line-height);
+  top: 22px;
+  width: 208px;
+}
+
+.forms.size-1-small .div-wrapper {
+  height: 20px;
+}
+
+.forms.size-1-large .text-wrapper-6 {
+  font-family: var(--regular-12px-font-family);
+  font-size: var(--regular-12px-font-size);
+  font-style: var(--regular-12px-font-style);
+  font-weight: var(--regular-12px-font-weight);
+  letter-spacing: var(--regular-12px-letter-spacing);
+  line-height: var(--regular-12px-line-height);
+  margin-top: -1px;
+}
+
+.forms.size-1-small .text-wrapper-6 {
+  font-family: var(--regular-10px-font-family);
+  font-size: var(--regular-10px-font-size);
+  font-style: var(--regular-10px-font-style);
+  font-weight: var(--regular-10px-font-weight);
+  letter-spacing: var(--regular-10px-letter-spacing);
+  line-height: var(--regular-10px-line-height);
+}

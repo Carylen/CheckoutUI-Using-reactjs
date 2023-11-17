@@ -1,0 +1,155 @@
+.buttons .bx-bxs-credit-card {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.buttons .text-wrapper-9 {
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.buttons.size-6-large {
+  align-items: center;
+  border-radius: 12px;
+  flex-direction: column;
+  height: 44px;
+  justify-content: center;
+  padding: 8px 12px;
+  position: relative;
+}
+
+.buttons.secondary {
+  border: 2px solid;
+  border-color: var(--blueblue-1);
+}
+
+.buttons.size-6-medium {
+  border-radius: 8px;
+}
+
+.buttons.primary {
+  background: linear-gradient(180deg, rgb(46.75, 135.53, 255) 0%, rgb(29.05, 104.09, 205.06) 100%);
+  box-shadow: var(--button-shadow-1);
+  position: relative;
+}
+
+.buttons.icon-false {
+  position: relative;
+}
+
+.buttons.icon-false.size-6-medium {
+  height: 40px;
+  width: 333px;
+}
+
+.buttons.icon-false.size-6-large {
+  display: flex;
+  width: 334px;
+}
+
+.buttons.icon-true.primary {
+  display: inline-flex;
+  flex-direction: column;
+}
+
+.buttons.size-6-medium.secondary {
+  height: 40px;
+  width: 333px;
+}
+
+.buttons.icon-true.size-6-large {
+  display: inline-flex;
+}
+
+.buttons.icon-true.size-6-medium.primary {
+  align-items: flex-start;
+  padding: 8px 11px;
+}
+
+.buttons.size-6-large .pay {
+  position: relative;
+}
+
+.buttons.size-6-medium .pay {
+  width: 310px;
+}
+
+.buttons.icon-true .pay {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+  width: 310px;
+}
+
+.buttons.icon-false .pay {
+  font-family: "Open Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 20px;
+  text-align: center;
+}
+
+.buttons.icon-false.size-6-medium .pay {
+  position: absolute;
+}
+
+.buttons.icon-true.primary .pay {
+  flex: 0 0 auto;
+}
+
+.buttons.icon-false.secondary .pay {
+  color: var(--blueblue-1);
+}
+
+.buttons.size-6-medium.secondary .pay {
+  left: 10px;
+}
+
+.buttons.icon-false.primary .pay {
+  color: var(--greygrey-1);
+}
+
+.buttons.icon-true.size-6-large .pay {
+  flex: 0 0 auto;
+}
+
+.buttons.icon-false.size-6-medium.secondary .pay {
+  top: 7px;
+}
+
+.buttons.icon-false.size-6-large.secondary .pay {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.buttons.icon-true.size-6-medium.secondary .pay {
+  top: 6px;
+}
+
+.buttons.icon-false.size-6-medium.primary .pay {
+  left: 12px;
+  top: 9px;
+}
+
+.buttons.icon-false.size-6-large.primary .pay {
+  width: 107px;
+}
+
+.buttons.primary .text-wrapper-9 {
+  color: var(--greygrey-1);
+}
+
+.buttons.secondary .text-wrapper-9 {
+  color: var(--blueblue-1);
+}

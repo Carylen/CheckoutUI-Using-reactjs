@@ -1,0 +1,57 @@
+.checkout {
+  background-color: #f6f6f6;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.checkout .div-2 {
+  background-color: var(--greygrey-1);
+  height: 1556px;
+  position: relative;
+  width: 1920px;
+}
+
+.checkout .order-review-instance {
+  left: 1072px !important;
+  position: absolute !important;
+  top: 123px !important;
+}
+
+.checkout .discount-codes-instance {
+  left: 1072px !important;
+  position: absolute !important;
+  top: 228px !important;
+}
+
+.checkout .shipping-method-instance {
+  left: 478px !important;
+  position: absolute !important;
+  top: 710px !important;
+}
+
+.checkout .billing-address-instance {
+  left: 478px !important;
+  position: absolute !important;
+  top: 123px !important;
+}
+
+.checkout .billing-summary-instance {
+  left: 1072px !important;
+  position: absolute !important;
+  top: 308px !important;
+}
+
+.checkout .payment-method-instance {
+  left: 478px !important;
+  position: absolute !important;
+  top: 990px !important;
+}
+
+.checkout .header-instance {
+  background-color: transparent !important;
+  left: 478px !important;
+  position: absolute !important;
+  top: 40px !important;
+}

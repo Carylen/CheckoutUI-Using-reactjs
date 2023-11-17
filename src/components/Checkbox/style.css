@@ -1,0 +1,62 @@
+.checkbox {
+  align-items: center;
+  position: relative;
+}
+
+.checkbox .instance-node {
+  height: 12px !important;
+  position: relative !important;
+  width: 12px !important;
+}
+
+.checkbox .create-an-account {
+  color: var(--darkdark-3);
+  flex: 1;
+  font-family: var(--regular-14px-font-family);
+  font-size: var(--regular-14px-font-size);
+  font-style: var(--regular-14px-font-style);
+  font-weight: var(--regular-14px-font-weight);
+  letter-spacing: var(--regular-14px-letter-spacing);
+  line-height: var(--regular-14px-line-height);
+  margin-top: -1px;
+  position: relative;
+}
+
+.checkbox .component {
+  height: 18px !important;
+  position: relative !important;
+  width: 18px !important;
+}
+
+.checkbox .p {
+  color: #000000;
+  font-family: var(--regular-14px-font-family);
+  font-size: var(--regular-14px-font-size);
+  font-style: var(--regular-14px-font-style);
+  font-weight: var(--regular-14px-font-weight);
+  letter-spacing: var(--regular-14px-letter-spacing);
+  line-height: var(--regular-14px-line-height);
+  margin-top: -0.5px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.checkbox.size-12-large {
+  display: inline-flex;
+  gap: 10px;
+  height: 21px;
+}
+
+.checkbox.size-12-small {
+  display: flex;
+  gap: 8px;
+}
+
+.checkbox.checkbox-false.size-12-small {
+  width: 222px;
+}
+
+.checkbox.checkbox-true.size-12-small {
+  width: 316px;
+}

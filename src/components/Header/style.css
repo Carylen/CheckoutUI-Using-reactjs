@@ -1,0 +1,50 @@
+.header {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  position: relative;
+  width: 964px;
+}
+
+.header .logo-1 {
+  height: 30px !important;
+  position: relative !important;
+  width: 135.62px !important;
+}
+
+.header .frame-6 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.header .text-wrapper-24 {
+  color: var(--darkdark-3);
+  font-family: var(--regular-14px-font-family);
+  font-size: var(--regular-14px-font-size);
+  font-style: var(--regular-14px-font-style);
+  font-weight: var(--regular-14px-font-weight);
+  letter-spacing: var(--regular-14px-letter-spacing);
+  line-height: var(--regular-14px-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.header .text-wrapper-25 {
+  color: var(--blueblue-1);
+  font-family: var(--regular-14px-font-family);
+  font-size: var(--regular-14px-font-size);
+  font-style: var(--regular-14px-font-style);
+  font-weight: var(--regular-14px-font-weight);
+  letter-spacing: var(--regular-14px-letter-spacing);
+  line-height: var(--regular-14px-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

@@ -1,0 +1,113 @@
+.billing-address {
+  background-color: #ffffff;
+  border-radius: 4px;
+  box-shadow: var(--shadow-1);
+  height: 567px;
+  position: relative;
+  width: 570px;
+}
+
+.billing-address .text-wrapper-8 {
+  color: #000000;
+  font-family: var(--bold-16px-font-family);
+  font-size: var(--bold-16px-font-size);
+  font-style: var(--bold-16px-font-style);
+  font-weight: var(--bold-16px-font-weight);
+  left: 20px;
+  letter-spacing: var(--bold-16px-letter-spacing);
+  line-height: var(--bold-16px-line-height);
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.billing-address .forms-instance {
+  left: 20px !important;
+  position: absolute !important;
+  top: 133px !important;
+  width: 528px !important;
+}
+
+.billing-address .forms-2 {
+  width: 528px !important;
+}
+
+.billing-address .forms-3 {
+  left: 501px !important;
+}
+
+.billing-address .forms-4 {
+  width: 473px !important;
+}
+
+.billing-address .forms-5 {
+  left: 20px !important;
+  position: absolute !important;
+  top: 207px !important;
+  width: 528px !important;
+}
+
+.billing-address .rectangle-6 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: var(--darkdark-1);
+  border-radius: 4px;
+  height: 44px;
+  left: 20px;
+  position: absolute;
+  top: 280px;
+  width: 528px;
+}
+
+.billing-address .frame-3 {
+  align-items: center;
+  display: flex;
+  gap: 18px;
+  left: 20px;
+  position: absolute;
+  top: 59px;
+  width: 528px;
+}
+
+.billing-address .forms-6 {
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  position: relative !important;
+  width: unset !important;
+}
+
+.billing-address .forms-7 {
+  width: 255px !important;
+}
+
+.billing-address .frame-4 {
+  align-items: center;
+  display: flex;
+  gap: 18px;
+  left: 20px;
+  position: absolute;
+  top: 340px;
+  width: 528px;
+}
+
+.billing-address .frame-5 {
+  align-items: center;
+  display: flex;
+  gap: 18px;
+  left: 20px;
+  position: absolute;
+  top: 414px;
+  width: 528px;
+}
+
+.billing-address .checkbox-instance {
+  left: 20px !important;
+  position: absolute !important;
+  top: 494px !important;
+}
+
+.billing-address .checkbox-2 {
+  left: 20px !important;
+  position: absolute !important;
+  top: 524px !important;
+}

@@ -1,0 +1,30 @@
+.discount-codes {
+  background-color: #ffffff;
+  border-radius: 4px;
+  box-shadow: var(--shadow-1);
+  height: 60px;
+  position: relative;
+  width: 370px;
+}
+
+.discount-codes .text-wrapper-2 {
+  color: #000000;
+  font-family: var(--bold-16px-font-family);
+  font-size: var(--bold-16px-font-size);
+  font-style: var(--bold-16px-font-style);
+  font-weight: var(--bold-16px-font-weight);
+  left: 20px;
+  letter-spacing: var(--bold-16px-letter-spacing);
+  line-height: var(--bold-16px-line-height);
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.discount-codes .img {
+  height: 6px;
+  left: 339px;
+  position: absolute;
+  top: 27px;
+  width: 9px;
+}

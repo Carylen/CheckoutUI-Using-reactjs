@@ -1,0 +1,283 @@
+.billing-summary {
+  background-color: #ffffff;
+  border-radius: 4px;
+  box-shadow: var(--shadow-1);
+  height: 577px;
+  position: relative;
+  width: 370px;
+}
+
+.billing-summary .norton-icon {
+  height: 29px !important;
+  left: 147px !important;
+  position: absolute !important;
+  top: 530px !important;
+  width: 76px !important;
+}
+
+.billing-summary .forms-8 {
+  left: 21px !important;
+  position: absolute !important;
+  top: 320px !important;
+  width: 328px !important;
+}
+
+.billing-summary .forms-9 {
+  width: 328px !important;
+}
+
+.billing-summary .forms-10 {
+  width: 303px !important;
+}
+
+.billing-summary .text-wrapper-10 {
+  color: #000000;
+  font-family: var(--bold-16px-font-family);
+  font-size: var(--bold-16px-font-size);
+  font-style: var(--bold-16px-font-style);
+  font-weight: var(--bold-16px-font-weight);
+  left: 20px;
+  letter-spacing: var(--bold-16px-letter-spacing);
+  line-height: var(--bold-16px-line-height);
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.billing-summary .polygon-2 {
+  height: 6px;
+  left: 339px;
+  position: absolute;
+  top: 26px;
+  width: 9px;
+}
+
+.billing-summary .group-2 {
+  height: 38px;
+  left: 20px;
+  position: absolute;
+  top: 263px;
+  width: 335px;
+}
+
+.billing-summary .text-wrapper-11 {
+  color: #000000;
+  font-family: var(--bold-16px-font-family);
+  font-size: var(--bold-16px-font-size);
+  font-style: var(--bold-16px-font-style);
+  font-weight: var(--bold-16px-font-weight);
+  left: 0;
+  letter-spacing: var(--bold-16px-letter-spacing);
+  line-height: var(--bold-16px-line-height);
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.billing-summary .text-wrapper-12 {
+  color: #000000;
+  font-family: var(--bold-16px-font-family);
+  font-size: var(--bold-16px-font-size);
+  font-style: var(--bold-16px-font-style);
+  font-weight: var(--bold-16px-font-weight);
+  left: 257px;
+  letter-spacing: var(--bold-16px-letter-spacing);
+  line-height: var(--bold-16px-line-height);
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.billing-summary .vector-4 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 330px;
+}
+
+.billing-summary .buttons-instance {
+  left: 20px !important;
+  position: absolute !important;
+  top: 476px !important;
+}
+
+.billing-summary .checkbox-3 {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  left: 20px;
+  position: absolute;
+  top: 419px;
+  width: 316px;
+}
+
+.billing-summary .checkbox-6 {
+  height: 12px !important;
+  position: relative !important;
+  width: 12px !important;
+}
+
+.billing-summary .my-billing-and {
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.billing-summary .group-3 {
+  height: 20px;
+  left: 20px;
+  position: absolute;
+  top: 100px;
+  width: 335px;
+}
+
+.billing-summary .text-wrapper-13 {
+  color: var(--darkdark-3);
+  font-family: var(--regular-14px-font-family);
+  font-size: var(--regular-14px-font-size);
+  font-style: var(--regular-14px-font-style);
+  font-weight: var(--regular-14px-font-weight);
+  left: 0;
+  letter-spacing: var(--regular-14px-letter-spacing);
+  line-height: var(--regular-14px-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.billing-summary .text-wrapper-14 {
+  color: var(--darkdark-3);
+  font-family: var(--semibold-15px-font-family);
+  font-size: var(--semibold-15px-font-size);
+  font-style: var(--semibold-15px-font-style);
+  font-weight: var(--semibold-15px-font-weight);
+  left: 270px;
+  letter-spacing: var(--semibold-15px-letter-spacing);
+  line-height: var(--semibold-15px-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.billing-summary .group-4 {
+  height: 20px;
+  left: 20px;
+  position: absolute;
+  top: 68px;
+  width: 334px;
+}
+
+.billing-summary .text-wrapper-15 {
+  color: var(--darkdark-3);
+  font-family: var(--semibold-15px-font-family);
+  font-size: var(--semibold-15px-font-size);
+  font-style: var(--semibold-15px-font-style);
+  font-weight: var(--semibold-15px-font-weight);
+  left: 266px;
+  letter-spacing: var(--semibold-15px-letter-spacing);
+  line-height: var(--semibold-15px-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.billing-summary .group-5 {
+  height: 40px;
+  left: 20px;
+  position: absolute;
+  top: 132px;
+  width: 336px;
+}
+
+.billing-summary .warranty-platinum {
+  color: transparent;
+  font-family: var(--regular-14px-font-family);
+  font-size: var(--regular-14px-font-size);
+  font-style: var(--regular-14px-font-style);
+  font-weight: var(--regular-14px-font-weight);
+  left: 0;
+  letter-spacing: var(--regular-14px-letter-spacing);
+  line-height: var(--regular-14px-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.billing-summary .span {
+  color: #222222;
+  font-family: var(--regular-14px-font-family);
+  font-size: var(--regular-14px-font-size);
+  font-style: var(--regular-14px-font-style);
+  font-weight: var(--regular-14px-font-weight);
+  letter-spacing: var(--regular-14px-letter-spacing);
+  line-height: var(--regular-14px-line-height);
+}
+
+.billing-summary .text-wrapper-16 {
+  color: #4f4f4f;
+  font-family: var(--regular-14px-font-family);
+  font-size: var(--regular-14px-font-size);
+  font-style: var(--regular-14px-font-style);
+  font-weight: var(--regular-14px-font-weight);
+  letter-spacing: var(--regular-14px-letter-spacing);
+  line-height: var(--regular-14px-line-height);
+}
+
+.billing-summary .text-wrapper-17 {
+  color: var(--blueblue-1);
+  font-family: "Open Sans", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.billing-summary .text-wrapper-18 {
+  color: var(--darkdark-3);
+  font-family: var(--semibold-15px-font-family);
+  font-size: var(--semibold-15px-font-size);
+  font-style: var(--semibold-15px-font-style);
+  font-weight: var(--semibold-15px-font-weight);
+  left: 274px;
+  letter-spacing: var(--semibold-15px-letter-spacing);
+  line-height: var(--semibold-15px-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.billing-summary .group-6 {
+  height: 20px;
+  left: 20px;
+  position: absolute;
+  top: 184px;
+  width: 334px;
+}
+
+.billing-summary .text-wrapper-19 {
+  color: var(--darkdark-3);
+  font-family: var(--semibold-15px-font-family);
+  font-size: var(--semibold-15px-font-size);
+  font-style: var(--semibold-15px-font-style);
+  font-weight: var(--semibold-15px-font-weight);
+  left: 291px;
+  letter-spacing: var(--semibold-15px-letter-spacing);
+  line-height: var(--semibold-15px-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.billing-summary .group-7 {
+  height: 20px;
+  left: 20px;
+  position: absolute;
+  top: 216px;
+  width: 334px;
+}

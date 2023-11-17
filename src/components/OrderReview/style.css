@@ -1,0 +1,43 @@
+.order-review {
+  background-color: #ffffff;
+  border-radius: 4px;
+  box-shadow: var(--shadow-1);
+  height: 85px;
+  position: relative;
+  width: 370px;
+}
+
+.order-review .text-wrapper {
+  color: #000000;
+  font-family: var(--bold-16px-font-family);
+  font-size: var(--bold-16px-font-size);
+  font-style: var(--bold-16px-font-style);
+  font-weight: var(--bold-16px-font-weight);
+  left: 20px;
+  letter-spacing: var(--bold-16px-letter-spacing);
+  line-height: var(--bold-16px-line-height);
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.order-review .div {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 42px;
+  white-space: nowrap;
+}
+
+.order-review .polygon {
+  height: 6px;
+  left: 339px;
+  position: absolute;
+  top: 27px;
+  width: 9px;
+}
